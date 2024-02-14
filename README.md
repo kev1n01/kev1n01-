@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Kevin Arnol and I'm a programer Full Stack, from Perú </h2>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Arnold!;" />
+</h1>
 ###
 
 <div align="center">
@@ -27,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kev1n01/kev1n01/output/github-contribution-grid-snake.svg" />
 </div>
 
 ###
