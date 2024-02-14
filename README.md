@@ -1,6 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Arnold!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Kevin+Arnold...;+I'm a programer." />
 </h1>
+
+###
+
+<img align="center" height="150" src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif"  />
+
+###
 
 <div align="center">
   <a href="https://www.instagram.com/kkevv1?igsh=MWc1d3hsYmJnOGJ5Yg==" target="_blank">
@@ -17,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kev1n01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kev1n01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif"  />
 
 ###
 
