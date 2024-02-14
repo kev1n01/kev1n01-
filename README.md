@@ -1,10 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Kevin+Arnold...;+I'm a programer." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Kevin+Arnold...;+I'm+a+programer." />
 </h1>
 
 ###
-
-<img align="center" height="150" src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif"  />
+<div align="center">
+    <img  height="150" src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif"  />
+</div>
 
 ###
 
