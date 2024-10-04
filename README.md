@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,vscode,github,figma,tailwind,git,react,laravel,astro" />
+  <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css,vscode,github,figma,tailwind,git,react,laravel,astro,pinia,unity,mongodb,blender,svelte" />
     <img src="https://skillicons.dev/icons?i=nodejs,php,python,javascript,typescript,express,firebase,mysql,postgresql,fastapi,ai,xd,django,threejs" /><br>
 </div>
 
